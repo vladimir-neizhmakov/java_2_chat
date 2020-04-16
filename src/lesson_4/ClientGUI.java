@@ -7,11 +7,6 @@ import java.awt.event.ActionListener;
 
 public class ClientGUI extends JFrame implements ActionListener, Thread.UncaughtExceptionHandler {
 
-    /*
-    Отправлять сообщения в лог по нажатию кнопки или по нажатию клавиши Enter.
-Создать лог в файле (показать комментарием, где и как Вы планируете писать сообщение в файловый журнал).
-Прочитать методичку к следующему уроку
-     */
     private static final int WIDTH = 400;
     private static final int HEIGHT = 300;
 
